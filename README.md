@@ -1,6 +1,8 @@
 # Freestyle-Fellows-Engineering-Challenge
 Engineering challenge for Freestyle Fellows summer 2018 program.
 
+The URL for the GitHub repository of this challenge is https://github.com/dylanpowers25/Freestyle-Fellows-Engineering-Challenge.
+
 My algorithm selects which food and drinks to buy based on how many people are pleased with an item relative to the cost of that item. I say 'item' because I consider both food and drinks simultaneously. The algorithm starts by generating file objects opened via function parameters (I assume that the files exist and can be accessed in all cases). It then generates two dictionaries, which are helpful in solving the problem, and are useful because access time is O(1). The first dictionary contains food or drinks as keys, and the number of people that want each food or drink as the values. It is generated using the Counter object from the collections library in Python. The second dictionary contains food or drinks as keys and unit costs as values.
 
 After obtaining the dictionaries, the program generates a third dictionary based on the first two. As mentioned previously, my algorithm carefully selects food and drink options according to how many people are pleased with an item relative to its cost. To obtain an empirical value for this, simply divide the number of people that want an item by its cost - creating a people-pleased-per-dollar-spent value. The third dictionary has items as keys and people-pleased/$1 as values. I then sort this using pythons sorted() function, which is an O(n log n) operation. 
