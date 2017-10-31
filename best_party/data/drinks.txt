@@ -1,3 +1,5 @@
-champagne:20
-vodka:50
-whiskey:70
+sprite:100
+water:1
+gingerale:5
+coke:5
+lemonade:3

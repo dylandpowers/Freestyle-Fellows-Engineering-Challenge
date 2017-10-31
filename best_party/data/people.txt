@@ -1,9 +1,12 @@
-darty joe
-vodka,whiskey,champagne
-fritos,lays,doritos
-craigrm
-vodka,whiskey
-fritos,doritos
-brucekeke
-vodka,champagne
-fritos
+Joe
+gingerale,sprite,water
+lays,fritos,cheeseballs
+Craig
+water,sprite,coke
+lays,edamame,tortillachips
+Bryce
+sprite,lemonade,gingerale
+lays,edamame
+Eric
+sprite,water
+tortillachips,fritos,kettlechips,lays

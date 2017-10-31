@@ -1,0 +1,4 @@
+coke:1
+sprite:1.5
+water:1.5
+cheerwine:1.5

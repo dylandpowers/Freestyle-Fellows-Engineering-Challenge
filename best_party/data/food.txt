@@ -1,3 +1,6 @@
-doritos:14
-lays:6
+lays:100
 fritos:5
+cheeseballs:8
+edamame:15
+tortillachips:2
+kettlechips:1.5
