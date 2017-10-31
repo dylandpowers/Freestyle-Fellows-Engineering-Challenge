@@ -1,0 +1,3 @@
+champagne:20
+vodka:50
+whiskey:70

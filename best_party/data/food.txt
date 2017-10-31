@@ -1,0 +1,3 @@
+doritos:14
+lays:6
+fritos:5
